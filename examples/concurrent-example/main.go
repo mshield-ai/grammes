@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/northwesternmutual/grammes"
-	"github.com/northwesternmutual/grammes/examples/exampleutil"
+	"github.com/mshield-ai/grammes"
+	"github.com/mshield-ai/grammes/examples/exampleutil"
 	"go.uber.org/zap"
 )
 

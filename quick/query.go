@@ -21,7 +21,7 @@
 package quick
 
 import (
-	"github.com/northwesternmutual/grammes/query"
+	"github.com/mshield-ai/grammes/query"
 )
 
 // ExecuteQuery is used to execute a query

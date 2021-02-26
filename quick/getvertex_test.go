@@ -26,9 +26,9 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/northwesternmutual/grammes"
-	"github.com/northwesternmutual/grammes/logging"
-	"github.com/northwesternmutual/grammes/manager"
+	"github.com/mshield-ai/grammes"
+	"github.com/mshield-ai/grammes/logging"
+	"github.com/mshield-ai/grammes/manager"
 )
 
 func TestVerticesByQuery(t *testing.T) {

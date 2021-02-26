@@ -29,8 +29,8 @@ import (
 	"github.com/google/uuid"
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/northwesternmutual/grammes/gremconnect"
-	"github.com/northwesternmutual/grammes/gremerror"
+	"github.com/mshield-ai/grammes/gremconnect"
+	"github.com/mshield-ai/grammes/gremerror"
 )
 
 func TestExecuteRequest(t *testing.T) {

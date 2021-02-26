@@ -23,11 +23,11 @@ package manager
 import (
 	"strconv"
 
-	"github.com/northwesternmutual/grammes/gremerror"
-	"github.com/northwesternmutual/grammes/logging"
-	"github.com/northwesternmutual/grammes/model"
-	"github.com/northwesternmutual/grammes/query"
-	"github.com/northwesternmutual/grammes/query/traversal"
+	"github.com/mshield-ai/grammes/gremerror"
+	"github.com/mshield-ai/grammes/logging"
+	"github.com/mshield-ai/grammes/model"
+	"github.com/mshield-ai/grammes/query"
+	"github.com/mshield-ai/grammes/query/traversal"
 )
 
 type addVertexQueryManager struct {

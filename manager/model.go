@@ -23,12 +23,12 @@ package manager
 import (
 	"encoding/json"
 
-	"github.com/northwesternmutual/grammes/logging"
-	"github.com/northwesternmutual/grammes/model"
-	"github.com/northwesternmutual/grammes/query"
-	"github.com/northwesternmutual/grammes/query/cardinality"
-	"github.com/northwesternmutual/grammes/query/datatype"
-	"github.com/northwesternmutual/grammes/query/multiplicity"
+	"github.com/mshield-ai/grammes/logging"
+	"github.com/mshield-ai/grammes/model"
+	"github.com/mshield-ai/grammes/query"
+	"github.com/mshield-ai/grammes/query/cardinality"
+	"github.com/mshield-ai/grammes/query/datatype"
+	"github.com/mshield-ai/grammes/query/multiplicity"
 )
 
 var (

@@ -23,7 +23,7 @@ package grammes_test
 import (
 	"log"
 
-	"github.com/northwesternmutual/grammes"
+	"github.com/mshield-ai/grammes"
 )
 
 func Example_newClient() {

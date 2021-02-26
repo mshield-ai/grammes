@@ -23,7 +23,7 @@ package grammes
 import (
 	"encoding/json"
 
-	"github.com/northwesternmutual/grammes/gremconnect"
+	"github.com/mshield-ai/grammes/gremconnect"
 )
 
 var (

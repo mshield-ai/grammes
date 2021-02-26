@@ -26,12 +26,12 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"github.com/northwesternmutual/grammes"
-	"github.com/northwesternmutual/grammes/logging"
-	"github.com/northwesternmutual/grammes/manager"
-	"github.com/northwesternmutual/grammes/query/cardinality"
-	"github.com/northwesternmutual/grammes/query/datatype"
-	"github.com/northwesternmutual/grammes/query/multiplicity"
+	"github.com/mshield-ai/grammes"
+	"github.com/mshield-ai/grammes/logging"
+	"github.com/mshield-ai/grammes/manager"
+	"github.com/mshield-ai/grammes/query/cardinality"
+	"github.com/mshield-ai/grammes/query/datatype"
+	"github.com/mshield-ai/grammes/query/multiplicity"
 )
 
 func TestAddEdgeLabel(t *testing.T) {

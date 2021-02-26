@@ -22,8 +22,8 @@ package traversal
 
 import (
 	"strings"
-	
-	"github.com/northwesternmutual/grammes/query/cardinality"
+
+	"github.com/mshield-ai/grammes/query/cardinality"
 )
 
 // http://tinkerpop.apache.org/docs/current/reference/#addproperty-step

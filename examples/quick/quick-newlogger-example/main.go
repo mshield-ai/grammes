@@ -23,10 +23,10 @@ package main
 import (
 	"flag"
 
-	"github.com/northwesternmutual/grammes/logging"
+	"github.com/mshield-ai/grammes/logging"
 
-	"github.com/northwesternmutual/grammes/examples/exampleutil"
-	"github.com/northwesternmutual/grammes/quick"
+	"github.com/mshield-ai/grammes/examples/exampleutil"
+	"github.com/mshield-ai/grammes/quick"
 
 	"go.uber.org/zap"
 )
